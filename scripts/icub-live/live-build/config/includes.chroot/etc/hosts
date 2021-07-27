@@ -1,6 +1,7 @@
 127.0.0.1	localhost
 127.0.1.1	pc104.icub.local pc104
-10.0.0.1 	icub-srv icubsrv
+10.0.2.107 	icub-srv icubsrv icubunicorn
+10.0.2.102      ikart
 
 # The following lines are desirable for IPv6 capable hosts
 ::1     localhost ip6-localhost ip6-loopback

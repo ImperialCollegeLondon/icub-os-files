@@ -4,7 +4,7 @@ MOUNTS_FILE="/etc/rc.iCub.d/mounts.list"
 PACKETS_PER_PING=10
 MAX_RETRIES_N=3
 SLEEP_TIME_SEC=5
-PING_DEST="10.0.0.1"
+PING_DEST="10.0.2.107"
 echo "Mounting remote filesystems.."
 COUNT=0
 RETVAL=1
